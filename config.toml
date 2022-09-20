@@ -1,7 +1,7 @@
 baseURL = '/'
 languageCode = "en-us"
 title = 'Hugo Book'
-theme = 'hugo-book'
+theme = "hugo-book"
 
 # Book configuration
 disablePathToLower = true
